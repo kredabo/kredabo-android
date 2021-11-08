@@ -1,4 +1,4 @@
 # kredabo-android
 
 ## Testing Thanks
-Thanks to BrowserStack for Testing Tool support via OpenSource Licensing ![BrowserStack](docs/browserstack-logo-600x135.png)
+Thanks to BrowserStack for Testing Tool support via OpenSource Licensing ![](docs/browserstack-logo-600x135.png | width=100)
